@@ -1,9 +1,9 @@
-//TODO fill in comment template
+
 /*
-Description:
-Input:
-Output:
-Usage: 
+Description:a program that takes a string as input and counts how many of each character are in that string
+Input:string
+Output:number of characters contained in the string
+Usage: 5-character-count
 */
 
 // get input using getargs
